@@ -1,0 +1,14 @@
+body{
+    width: 300px;
+    background-color: lightcyan;
+    margin: 0 auto;
+    text-align: center;
+}
+.bn{
+   /* background-color: teal;*/
+    width: 60px;
+    height: 30px;
+    border:2px;
+    border-width: 2px;
+   /* color:white;*/b
+}

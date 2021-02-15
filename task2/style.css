@@ -1,0 +1,25 @@
+body{
+   /* display:flex;*/
+    font-size: 1.2rem;
+    background-color: lightcyan;
+}
+.d1{
+    text-align: center;
+}
+.d2{
+    text-align: center;
+}
+button{
+   height: 40px;
+   font-size: 1.2rem;
+   background-color: blue;
+   color: white;
+   border-radius: 10px;
+}
+button:hover{
+    background-color: chocolate;
+    color:white;
+}
+#ntb{
+    color: white;
+}

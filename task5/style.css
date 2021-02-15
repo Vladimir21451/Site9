@@ -1,0 +1,24 @@
+form{
+    width: 50%;
+    background-color: lightcyan;
+    margin: 0 auto;
+    align-items:stretch;
+    
+    
+}
+button{
+    background-color: rgb(63, 133, 136);
+    height: 4bb0px;
+    color:rgb(255, 255, 255);
+    border-radius: 7px;
+}
+button:hover{
+    background-color: chocolate;
+    color:white;
+}
+body{
+    display: inline;
+}
+ a{
+    color: white;
+}
